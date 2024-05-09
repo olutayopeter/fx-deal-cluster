@@ -1,7 +1,5 @@
 # Fx Deal Cluster
 
-## Important Note: This project's new milestone is to move The whole system to work on Kubernetes, so stay tuned.
-
 This documentation provides an overview of the Spring Boot application along with instructions for Docker deployment.
 
 ## Application Overview
